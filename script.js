@@ -1,19 +1,19 @@
 const songsList = [
     {
-        name: "SICKO MODE",
-        artist: "Travis Scott, ft Drake",
+        name: "Travis Scott, ft Drake",
+        artist: "SICKO MODE",
         src: "assets/1.mp3",
         cover: "assets/1.jpeg"
     },
     {
-        name: "EZ4ENCE",
-        artist: "The Verkkars",
+        name: "The Verkkars",
+        artist: "EZ4ENCE",
         src: "assets/2.mp3",
         cover: "assets/2.jpeg"
     },
     {
-        name: "Он гениален",
-        artist: "WOKAWÓNA",
+        name: "WOKAWÓNA",
+        artist: "Он гениален",
         src: "assets/3.mp3",
         cover: "assets/3.jpeg"
     }
